@@ -2,9 +2,9 @@
 
 namespace Payment_Methods
 {
-    class Program
+    internal class Payment
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
         }
