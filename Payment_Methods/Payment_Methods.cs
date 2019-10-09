@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Payment_Methods
 {
-    public abstract class Payment_Methods
+    public abstract class Payment_Method
     {
         public abstract void paymentDetails();
     }
